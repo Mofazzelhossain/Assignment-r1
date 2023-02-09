@@ -93,6 +93,10 @@ body {
     border-radius: 5px;
 }
 
+.call-me h1 {
+    color: #fff;
+}
+
 .btn-2 {
     border: none;
     color: chocolate;
