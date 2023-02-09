@@ -73,7 +73,8 @@ h1 {
     padding-left: 50px;
     height: 300px;
     width: 800px;
-    background-image: linear-gradient(rgba(238, 226, 226, 0), rgb(223, 163, 163)), url(image/gradient1.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url(image/watch.png);
+    background-repeat: no-repeat;
 }
 
 .btn-2 {
@@ -83,4 +84,10 @@ h1 {
     border-radius: 5px;
     padding: 10px 10px;
     margin-top: 50px;
+}
+
+footer {
+    height: 600px;
+    background-color: #000000;
+    margin-top: 150px;
 }
